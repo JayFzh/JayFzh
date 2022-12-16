@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wish%2C U %20Good Luck!;祝你好运!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Wish%2C%20Good Luck!;祝你好运!&center=true&size=27">
 </h1>
 
 <div align="center">

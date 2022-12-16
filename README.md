@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;努力毕业!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;祝你好运!&center=true&size=27">
 </h1>
 
 <div align="center">

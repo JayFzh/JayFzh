@@ -4,12 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;祝您今天愉快!&center=true&size=27">
 </h1>
 
-# Hi,welcome to JayFzh 🙋
-
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" />
 </div>
 
+# Hi,welcome to JayFzh 🙋
 
 🔭 I’m currently working on distributed machine learning
 

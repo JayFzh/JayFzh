@@ -1,4 +1,5 @@
 ### Hi,welcome to JayFzh 😄😄👋
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=cout(%22Hello%2C%20World!%22);Have a Nice Day!&center=true&size=27"> </a> </h1>
 
 <!--
 **JayFzh/JayFzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,8 +43,5 @@ Here are some ideas to get you started:
 
 
 
-<!-- <div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=JayFzh&theme=xcode" /> 
-</div> -->
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=cout(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"> </a> </h1>
+

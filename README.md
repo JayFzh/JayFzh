@@ -16,7 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on
+🔭 I’m currently working on distributed machine learning
+🌱 I’m currently learning Horovod/NCCL
+🏫 I will study for my PhD in Shanghai Jiaotong University
+📫 How to reach me:buptfzh2022@bupt.edu.cn
+🥰 My hobbies are 🏀⚽️🎱🏓⛸️🎸🎹 ...
+🎵 I like Jay very much 🎼
+
 
 <div align="center"> 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=JayFzh&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
@@ -35,4 +41,4 @@ Here are some ideas to get you started:
 </div> -->
 
 <h1 align="center"> 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27"></h1>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have a Nice Day!&center=true&size=27"></h1>

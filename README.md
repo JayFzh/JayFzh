@@ -14,9 +14,9 @@
 
 🌱 I’m currently learning Horovod/NCCL
 
-🏫 I will study for my PhD in Shanghai Jiaotong University
+🏫 I will study for a doctor's degree in Shanghai Jiao Tong University
 
-📫 How to reach me:buptfzh2022@bupt.edu.cn
+📫 How to contact me:buptfzh2022@bupt.edu.cn
 
 🥰 My hobbies are 🏀⚽️🎱🏓⛸️🎸🎹 ...
 

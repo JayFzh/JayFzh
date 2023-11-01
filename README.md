@@ -16,7 +16,7 @@
 
 🏫 I will study for a doctor's degree in Shanghai Jiao Tong University
 
-📫 How to contact me:buptfzh2022@bupt.edu.cn
+📫 How to contact me:fzhsjtu2023@sjtu.edu.cn
 
 🥰 My hobbies are 🏀⚽️🎱🏓⛸️🎸🎹 ...
 

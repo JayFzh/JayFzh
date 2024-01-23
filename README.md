@@ -4,21 +4,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;祝你好运!&center=true&size=27">
 </h1>
 
-<div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" />
-</div>
 
 # Hi,welcome to JayFzh 🙋
 
-🔭 I’m currently working on distributed machine learning
+🔭 I’m currently working on distributed machine learning especially LLM training ^^
 
-🌱 I’m currently learning Horovod/NCCL
+🌱 I’m currently learning Megatron
 
-🏫 I will study for a doctor's degree in Shanghai Jiao Tong University
+🏫 I am a phd student in the John Hopcraft center, Shanghai Jiao Tong University
 
 📫 How to contact me:fzhsjtu2023@sjtu.edu.cn
 
-🥰 My hobbies are 🏀⚽️🎱🏓⛸️🎸🎹 ...
+🥰 My hobbies are 🏀⚽️🎱🏓⛸️🏂🎸🎹 ...
 
 🎵 I like Jay very much 🎼
 

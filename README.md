@@ -7,9 +7,9 @@
 
 # Hi,welcome to JayFzh 🙋
 
-🔭 I’m currently working on distributed machine learning especially LLM training ^^
+🔭 I’m currently working on distributed machine learning system^^
 
-🌱 I’m currently learning Megatron
+🌱 I’m currently learning distributed dynamic gnn training
 
 🏫 I am a phd student in the John Hopcraft center, Shanghai Jiao Tong University
 

@@ -11,7 +11,7 @@
 
 🏫 I am a phd student in the John Hopcraft center, Shanghai Jiao Tong University
 
-💼 I'm currently an intern at Alibaba Cloud 
+💼 I am now an intern in the Cloud network research team of Alibaba Cloud
 
 📫 How to contact me: fzhsjtu2023@sjtu.edu.cn or fanzihao.fzh@alibaba-inc.com
 

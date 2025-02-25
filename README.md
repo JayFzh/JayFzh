@@ -5,15 +5,15 @@
 </h1>
 
 
-# Hi,welcome to JayFzh 🙋
+# Hi,welcome to Zihao 🙋
 
-🔭 I’m currently working on distributed machine learning system^^
-
-🌱 I’m currently learning distributed dynamic gnn training
+🔭 I’m currently working on Network4AI
 
 🏫 I am a phd student in the John Hopcraft center, Shanghai Jiao Tong University
 
-📫 How to contact me:fzhsjtu2023@sjtu.edu.cn
+💼 I'm currently an intern at Alibaba Cloud 
+
+📫 How to contact me: fzhsjtu2023@sjtu.edu.cn or fanzihao.fzh@alibaba-inc.com
 
 🥰 My hobbies are 🏀⚽️🎱🏓⛸️🏂🎸🎹 ...
 

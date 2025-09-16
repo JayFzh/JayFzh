@@ -1,13 +1,13 @@
 
 # Hi,welcome to Zihao 🙋
 
-🔭 I’m currently working on Network4AI
+🔭 I’m currently working on networking4AI and efficent training and inference of LLM.
 
-🏫 I am a phd student in the John Hopcraft center, Shanghai Jiao Tong University
+🏫 I am a phd student in the John Hopcraft center, Shanghai Jiao Tong University.
 
-💼 I am now an intern in the Cloud network research team of Alibaba Cloud
+💼 I am now a research intern in the Luoshen cloud network research team of Alibaba Cloud.
 
-📫 How to contact me: fzhsjtu2023@sjtu.edu.cn or fanzihao.fzh@alibaba-inc.com
+📫 How to contact me: fzhsjtu2023@sjtu.edu.cn or fanzihao.fzh@alibaba-inc.com.
 
 🎵 I like Jay very much 🎼
 

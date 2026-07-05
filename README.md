@@ -1,9 +1,9 @@
 
 # Hi, welcome to Zihao 🙋
 
-🔭 I'm currently working on networking4AI and efficent training and inference of LLM.
+🔭 I'm currently working on networking4AI and efficent training and serving of LLM.
 
-🏫 I'm a phd student in the John Hopcraft center, Shanghai Jiao Tong University.
+🏫 I'm a phd student in the John Hopcroft center, Shanghai Jiao Tong University.
 
 💼 I'm now a research intern in the Hunyuan AI Infra team of Tencent TEG.
 
